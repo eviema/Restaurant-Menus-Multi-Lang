@@ -1,0 +1,36 @@
+body {
+    height: 100%;
+}
+
+.background-image {
+    background: url(https://www.highergroundmelbourne.com.au/wp-content/themes/higherground/img/img_home.jpg); 
+    background-position: 50%, 0; 
+    height: 100vh;
+    text-align: center;
+}
+
+.logo {
+    vertical-align: middle; 
+    max-height: 25%; 
+}
+
+.navbar, .a-menu {
+    font-family: 'Catamaran', sans-serif;
+    letter-spacing: 1px;
+    margin-top: 2%;
+}
+
+.plat {
+    background-image: linear-gradient(to right, #333 10%, rgba(255, 255, 255, 0) 0%);
+    background-position: bottom;
+    background-size: 10px 1px;
+    background-repeat: repeat-x;
+    margin-top: 2%;
+    margin-left: 1%;
+    padding-bottom: 1%;
+}
+
+.titre_menu {
+    padding-top: 2%;
+    font-weight: bolder;
+}
