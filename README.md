@@ -1,4 +1,4 @@
-# Restaurant-Menus-Multi-Lang
+# restaurant-menus-multi-lang
 
 A bilingual website that records the menus of my favorite restaurants.   
 
