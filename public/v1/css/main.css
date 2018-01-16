@@ -7,11 +7,25 @@ body {
     background-position: 50%, 0; 
     height: 100vh;
     text-align: center;
+    position: relative;
 }
 
 .logo {
     vertical-align: middle; 
     max-height: 25%; 
+}
+
+.logo-helper {
+    display: inline-block; 
+    height: 100%; 
+    vertical-align: middle;
+}
+
+svg {
+    position: absolute;
+    top: 49%;
+    left: 50%;
+    right: 50%;
 }
 
 .navbar, .a-menu {
