@@ -34,6 +34,10 @@ svg {
     margin-top: 2%;
 }
 
+.dropdown-item {
+    font-size: small;
+}
+
 .plat {
     background-image: linear-gradient(to right, #333 10%, rgba(255, 255, 255, 0) 0%);
     background-position: bottom;
