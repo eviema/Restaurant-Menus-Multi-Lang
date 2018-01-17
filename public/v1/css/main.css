@@ -40,6 +40,15 @@ body {
     padding-bottom: 1%;
 }
 
+.plat .p {
+    display: inline-block;
+}
+
+.plat .prix-plat {
+    display: inline-block;
+    text-align: right;
+}
+
 .titre_menu {
     padding-top: 4%;
     font-weight: bolder;
